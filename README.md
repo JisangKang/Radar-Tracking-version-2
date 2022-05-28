@@ -7,7 +7,7 @@ Radar Tracking version 1 and 2 is obtaining the position and velocity by cluster
 The main difference between version 1 and 2 is order of obtaining velocity and filtering.   
 *version 1: obtaining position -> obtaining velocity -> filtering*    
 *version 2: obtaining position -> filtering -> obtaining velocity*        
-For testing the Radar Tracking, the experiment is conducted by using IWR6843ISK and situation is  that the person moves mainly along the one direction.  
+For testing the Radar Tracking, the experiment is conducted by using IWR6843ISK and situation is  that the person go straight and back.  
 <img src="https://user-images.githubusercontent.com/97038348/168714663-ffe56093-8c5d-48ff-9e46-492f182d3403.gif" width="35%" height="60%"/>
 
 There are how to install Radar Tracking and how to run Radar Tracking on ROS.  
